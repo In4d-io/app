@@ -1,0 +1,12 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "home": {
+    "brandNameGo": "Go",
+    "brandName4D": "4D",
+    "brandDescription": "Create scenes using the design tools using Three.js, Regl and Regl Worldview. These are just an experimental tools to help you understand various concepts that are consistent across all three web renderers."
+  }
+}
